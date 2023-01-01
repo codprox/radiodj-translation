@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>fr-GA</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Group.Category.Text</Key>
+    <Value>Catégories</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Subcategory.Text</Key>
+    <Value>Sous-Catégories</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Genre.Text</Key>
+    <Value>Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.Rename.Text</Key>
+    <Value>Renommer</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.Ok.Text</Key>
+    <Value>OK</Value>
+  </Settings>
+</NewDataSet>

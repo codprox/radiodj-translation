@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>fr-GA</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>Provenant d'une Catégorie ou Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Catégorie</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Sous-catégorie</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>Tout genre</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSelMode</Key>
+    <Value>Sélectionner un mode</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>Moins récemment joué</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>Plus récemment joué</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>Moins souvent joué</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>Plus souvent joué</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>Par priorité</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>Aléatoire</Value>
+  </Settings>
+  <Settings>
+    <Key>bAddCatTrack</Key>
+    <Value>Ajouter l'action</Value>
+  </Settings>
+</NewDataSet>
